@@ -1,7 +1,6 @@
 
 - Hi, I’m @ankitasuman009
-- I’m interested in lot of things
-- I’m currently learning Machine Learning
+- I’m interested in lot of things but mostly in Machine Learning
 - You can connect with me through Linkedin https://www.linkedin.com/in/ankita-suman-1a4839178/
 - Leetcode https://leetcode.com/ankita_suman09/
 - HackerRank https://www.hackerrank.com/ankitasuman8667
